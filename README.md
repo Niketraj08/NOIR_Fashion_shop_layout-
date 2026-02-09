@@ -1,2 +1,1 @@
-# project  
-Astra Cognix Sloutions 
+
